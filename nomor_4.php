@@ -1,0 +1,7 @@
+<?php
+$x = 1;
+while($x <= 50) {
+  echo "The number is: $x";
+  $x++;
+}
+?>
